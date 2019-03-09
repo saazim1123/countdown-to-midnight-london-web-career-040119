@@ -2,6 +2,6 @@
 
 def countdown
   while countdown < 12
-  puts "#{countdown}"
+  puts "#{countdown} is less than 12"
   end
 end
