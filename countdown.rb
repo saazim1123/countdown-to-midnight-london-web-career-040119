@@ -2,5 +2,6 @@
 
 def countdown
   while countdown < 12
+  puts ""
   end
 end
